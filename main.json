@@ -1191,7 +1191,7 @@
         {
          "columns":24,
          "firstgid":6434,
-         "image":"..\/HSB-Map\/active-cave.png",
+         "image":"assets\/active-cave.png",
          "imageheight":512,
          "imagewidth":768,
          "margin":0,
@@ -1205,7 +1205,7 @@
         {
          "columns":10,
          "firstgid":6818,
-         "image":"..\/HSB-Map\/coco-items.png",
+         "image":"assets\/coco-items.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -1219,7 +1219,7 @@
         {
          "columns":16,
          "firstgid":6918,
-         "image":"..\/HSB-Map\/divoc-functional.png",
+         "image":"assets\/divoc-functional.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1233,7 +1233,7 @@
         {
          "columns":112,
          "firstgid":7174,
-         "image":"..\/rc3-map-lounge\/fireworks2.png",
+         "image":"assets\/fireworks2.png",
          "imageheight":2560,
          "imagewidth":3584,
          "margin":0,
