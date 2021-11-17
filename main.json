@@ -950,7 +950,7 @@
                         {
                          "name":"jitsiURL",
                          "type":"string",
-                         "value":"https:\/\/meet.ffmuc.net"
+                         "value":"meet.ffmuc.net"
                         }]
                 }, 
                 {
