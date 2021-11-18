@@ -198,11 +198,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"30s_wohnzimmer"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1023,11 +1018,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"30s_wohnzimmer"
-                        }, 
-                        {
-                         "name":"jitsiUrl",
-                         "type":"string",
-                         "value":"meet.ffmuc.net"
                         }]
                 }, 
                 {
