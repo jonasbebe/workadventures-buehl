@@ -27,6 +27,11 @@
                  "value":"https:\/\/skins.webamp.org\/skin\/5e4f10275dcb1fb211d4a8b4f1bda236\/base-2.91.wsz\/"
                 }, 
                 {
+                 "name":"openWebsiteWidth",
+                 "type":"int",
+                 "value":30
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"\/assets\/llama.mp3"
