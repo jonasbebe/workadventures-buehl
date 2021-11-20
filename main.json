@@ -63928,7 +63928,7 @@
         {
          "columns":16,
          "firstgid":16238,
-         "image":"..\/chaotischInkorrekt\/furniture2.png",
+         "image":"assets\/furniture2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -63941,7 +63941,7 @@
         {
          "columns":16,
          "firstgid":16494,
-         "image":"..\/chaotischInkorrekt\/food_and_drinks.png",
+         "image":"assets\/food_and_drinks.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -63954,7 +63954,7 @@
         {
          "columns":13,
          "firstgid":17518,
-         "image":"..\/chaotischInkorrekt\/badezimmer3.png",
+         "image":"assets\/badezimmer3.png",
          "imageheight":537,
          "imagewidth":444,
          "margin":0,
@@ -63967,7 +63967,7 @@
         {
          "columns":3,
          "firstgid":17726,
-         "image":"..\/chaotischInkorrekt\/leinwand.png",
+         "image":"assets\/leinwand.png",
          "imageheight":159,
          "imagewidth":96,
          "margin":0,
@@ -63980,7 +63980,7 @@
         {
          "columns":5,
          "firstgid":17738,
-         "image":"..\/chaotischInkorrekt\/Bar.png",
+         "image":"assets\/Bar.png",
          "imageheight":164,
          "imagewidth":173,
          "margin":0,
@@ -63993,7 +63993,7 @@
         {
          "columns":2,
          "firstgid":17763,
-         "image":"..\/chaotischInkorrekt\/storage_set.png",
+         "image":"assets\/storage_set.png",
          "imageheight":224,
          "imagewidth":64,
          "margin":0,
@@ -64006,7 +64006,7 @@
         {
          "columns":16,
          "firstgid":17777,
-         "image":"..\/chaotischInkorrekt\/rc3-mullana-objects.png",
+         "image":"assets\/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -64019,7 +64019,7 @@
         {
          "columns":16,
          "firstgid":17905,
-         "image":"..\/chaotischInkorrekt\/misc.png",
+         "image":"assets\/misc.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -64032,7 +64032,7 @@
         {
          "columns":16,
          "firstgid":18929,
-         "image":"..\/chaotischInkorrekt\/furniture.png",
+         "image":"assets\/furniture.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -64172,7 +64172,7 @@
         {
          "columns":16,
          "firstgid":19953,
-         "image":"..\/chaotischInkorrekt\/c3gelb.png",
+         "image":"assets\/c3gelb.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -64185,7 +64185,7 @@
         {
          "columns":16,
          "firstgid":20977,
-         "image":"..\/chaotischInkorrekt\/tiles.png",
+         "image":"assets\/tiles.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -64198,7 +64198,7 @@
         {
          "columns":8,
          "firstgid":21233,
-         "image":"..\/chaotischInkorrekt\/pipo_base_1.png",
+         "image":"assets\/pipo_base_1.png",
          "imageheight":1152,
          "imagewidth":256,
          "margin":0,
@@ -64211,7 +64211,7 @@
         {
          "columns":8,
          "firstgid":21521,
-         "image":"..\/chaotischInkorrekt\/pipo_base_2.png",
+         "image":"assets\/pipo_base_2.png",
          "imageheight":1216,
          "imagewidth":256,
          "margin":0,
@@ -64224,7 +64224,7 @@
         {
          "columns":8,
          "firstgid":21825,
-         "image":"..\/chaotischInkorrekt\/pipo_base_3.png",
+         "image":"assets\/pipo_base_3.png",
          "imageheight":1888,
          "imagewidth":256,
          "margin":0,
@@ -64237,7 +64237,7 @@
         {
          "columns":16,
          "firstgid":22297,
-         "image":"..\/chaotischInkorrekt\/food_and_drinks.png",
+         "image":"assets\/food_and_drinks.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -64250,7 +64250,7 @@
         {
          "columns":16,
          "firstgid":23321,
-         "image":"..\/chaotischInkorrekt\/doors.png",
+         "image":"assets\/doors.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -64263,7 +64263,7 @@
         {
          "columns":8,
          "firstgid":24345,
-         "image":"..\/rC3-assembly\/maps\/furniture.png",
+         "image":"assets\/furniture.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -64276,7 +64276,7 @@
         {
          "columns":10,
          "firstgid":24409,
-         "image":"..\/rC3-assembly\/maps\/winkekatze.png",
+         "image":"assets\/winkekatze.png",
          "imageheight":32,
          "imagewidth":320,
          "margin":0,
@@ -64334,7 +64334,7 @@
         {
          "columns":3,
          "firstgid":24419,
-         "image":"..\/rC3-assembly\/maps\/waterfall.png",
+         "image":"assets\/waterfall.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -64436,7 +64436,7 @@
         {
          "columns":20,
          "firstgid":24431,
-         "image":"..\/rC3-assembly\/poschi\/poschi.png",
+         "image":"assets\/poschi.png",
          "imageheight":640,
          "imagewidth":640,
          "margin":0,
@@ -64583,7 +64583,7 @@
         {
          "columns":8,
          "firstgid":24831,
-         "image":"..\/rC3-assembly\/londrik\/londrik.png",
+         "image":"assets\/londrik.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -64596,7 +64596,7 @@
         {
          "columns":8,
          "firstgid":24895,
-         "image":"..\/rC3-assembly\/maps\/furniture.png",
+         "image":"assets\/furniture.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -64609,7 +64609,7 @@
         {
          "columns":3,
          "firstgid":24959,
-         "image":"..\/rC3-assembly\/maps\/floor.png",
+         "image":"assets\/floor.png",
          "imageheight":32,
          "imagewidth":96,
          "margin":0,
@@ -64632,7 +64632,7 @@
         {
          "columns":13,
          "firstgid":24962,
-         "image":"..\/rC3-assembly\/maps\/jumpingfish.png",
+         "image":"assets\/jumpingfish.png",
          "imageheight":32,
          "imagewidth":416,
          "margin":0,
@@ -64702,7 +64702,7 @@
         {
          "columns":3,
          "firstgid":24975,
-         "image":"..\/rC3-assembly\/joo\/fallblatt.png",
+         "image":"assets\/fallblatt.png",
          "imageheight":32,
          "imagewidth":96,
          "margin":0,
@@ -64715,7 +64715,7 @@
         {
          "columns":10,
          "firstgid":24978,
-         "image":"..\/rC3-assembly\/maps\/grounddekoration.png",
+         "image":"assets\/grounddekoration.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -64728,7 +64728,7 @@
         {
          "columns":10,
          "firstgid":25078,
-         "image":"..\/rC3-assembly\/maps\/ground_32x32.png",
+         "image":"assets\/ground_32x32.png",
          "imageheight":160,
          "imagewidth":320,
          "margin":0,
@@ -64895,7 +64895,7 @@
         {
          "columns":8,
          "firstgid":25128,
-         "image":"..\/rC3-assembly\/maps\/characters.png",
+         "image":"assets\/characters.png",
          "imageheight":32,
          "imagewidth":256,
          "margin":0,
@@ -64954,7 +64954,7 @@
         {
          "columns":4,
          "firstgid":25136,
-         "image":"..\/rC3-assembly\/maps\/berg_walls.png",
+         "image":"assets\/berg_walls.png",
          "imageheight":288,
          "imagewidth":128,
          "margin":0,
@@ -65211,7 +65211,7 @@
         {
          "columns":8,
          "firstgid":25172,
-         "image":"..\/rC3-assembly\/anna\/annas tiles.png",
+         "image":"assets\/annas tiles.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
