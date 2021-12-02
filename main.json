@@ -185,7 +185,7 @@
          "height":46,
          "id":14,
          "name":"functions_block",
-         "opacity":0.77,
+         "opacity":0,
          "type":"tilelayer",
          "visible":true,
          "width":73,
@@ -382,7 +382,7 @@
          "height":46,
          "id":20,
          "name":"jitsi30s_wohnzimmer",
-         "opacity":0.32,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiRoom",
