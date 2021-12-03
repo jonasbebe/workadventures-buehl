@@ -232,6 +232,11 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"int",
+                 "value":30
                 }],
          "type":"tilelayer",
          "visible":true,
