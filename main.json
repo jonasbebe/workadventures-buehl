@@ -206,9 +206,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/embed.traxsource.com\/player\/track\/378162"
+                 "value":"https:\/\/geo-preview.traxsource.com\/files\/previews\/4778\/255723-p.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
