@@ -434,7 +434,7 @@
          "height":46,
          "id":20,
          "name":"jitsi30s_wohnzimmer",
-         "opacity":0.12,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiRoom",
