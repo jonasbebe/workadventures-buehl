@@ -231,7 +231,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"accelerometer; autoplay\""
+                 "value":"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 }],
          "type":"tilelayer",
          "visible":true,
