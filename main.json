@@ -86,7 +86,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"url",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wall.jonas-bebe.de\/"
                 }],
