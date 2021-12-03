@@ -227,6 +227,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/RD36GsRheEY"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"accelerometer; autoplay\""
                 }],
          "type":"tilelayer",
          "visible":true,
